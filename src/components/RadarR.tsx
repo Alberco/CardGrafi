@@ -42,7 +42,7 @@ function RadarR() {
   ]
   
   return (
-    <ResponsiveContainer width={"100%"} height={"100%"}>
+    <ResponsiveContainer width="100%" height="100%">
       <RadarChart outerRadius={90} width={730} height={250} data={data}>
         <PolarGrid />
         <PolarAngleAxis dataKey="subject" />

@@ -18,12 +18,6 @@ function LinealR() {
           width={500}
           height={200}
           data={data}
-          margin={{
-            top: 10,
-            right: 30,
-            left: 0,
-            bottom: 0,
-          }}
         >
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="name" />

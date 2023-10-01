@@ -56,7 +56,7 @@ function Navbar() {
                 </li>
             </ul>
             <ul className="flex justify-end pr-4">
-              <li className="border-2 border-transparent bg-[#1F2125]/90 px-2 py-2 rounded-md">
+              <li className="border-2 border-transparent bg-[#1F2125]/90 px-2 py-2 rounded-md ">
                 <MenuIcon style="" />
               </li>
             </ul>
